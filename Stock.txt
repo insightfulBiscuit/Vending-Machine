@@ -1,0 +1,60 @@
+Macaroon,2.99,07/12/2022,Bag,false,Assorted,Assorted
+Macaroon,2.99,07/12/2022,Bag,false,Assorted,Assorted
+-
+Tart,2.99,07/12/2022,Plastic,false,Lemon,Lemon
+Tart,2.99,07/12/2022,Plastic,false,Lemon,Lemon
+-
+Tart,2.99,07/12/2022,Plastic,false,Vanilla,Strawberry
+Tart,2.99,07/12/2022,Plastic,false,Vanilla,Strawberry
+-
+Cake Pop,2.99,07/12/2022,Bag,false,Cake,Sprinkles
+Cake Pop,2.99,07/12/2022,Bag,false,Cake,Chocolate
+-
+Cookie,2.99,07/12/2022,Bag,false,None,Chocolate
+Cookie,2.99,07/12/2022,Bag,false,None,Chocolate
+
+Cake,2.99,07/12/2022,Plastic,false,Chocolate,Chocolate
+Cake,2.99,07/12/2022,Plastic,false,Chocolate,Chocolate
+-
+Tiramisu,2.99,07/12/2022,Plastic,false,Mascarpone,Cocoa Powder
+Tiramisu,2.99,07/12/2022,Plastic,false,Mascarpone,Cocoa Powder
+-
+Rainbow Cake,2.99,07/12/2022,Plastic,false,Vanilla,Vanilla
+Rainbow Cake,2.99,07/12/2022,Plastic,false,Vanilla,Vanilla
+-
+Cheesecake,2.99,07/12/2022,Plastic,false,Cream Cheese,Cherry Sause
+Cheesecake,2.99,07/12/2022,Plastic,false,Cream Cheese,Cherry Sause
+-
+Apple Pie,2.99,07/12/2022,Plastic,false,Cinnamon Apple,None
+Apple Pie,2.99,07/12/2022,Plastic,false,Cinnamon Apple,None
+
+Cinnamon Bun,2.99,07/12/2022,Bag,false,Cinnamon,Icing
+Cinnamon Bun,2.99,07/12/2022,Bag,false,Cinnamon,Icing
+-
+Chocolate Donut,2.99,07/12/2022,Plastic,false,Custard,Chocolate
+Chocolate Donut,2.99,07/12/2022,Plastic,false,Custard,Chocolate
+-
+Strawberry Donut,2.99,07/12/2022,Plastic,false,Jelly,Pink Icing
+Strawberry Donut,2.99,07/12/2022,Plastic,false,Jelly,Pink Icing
+-
+Eclair,2.99,07/12/2022,Plastic,false,Custard,Chocolate
+Eclair,2.99,07/12/2022,Plastic,false,Custard,Chocolate
+-
+Opera,2.99,07/12/2022,Plastic,false,Ganache,Coffee Buttercream
+Opera,2.99,07/12/2022,Plastic,false,Ganache,Coffee Buttercream
+
+Batard,2.99,07/12/2022,Bag,false,null,0,0
+Batard,2.99,07/12/2022,Bag,false,null,0,0
+-
+Baguette,2.99,07/12/2022,Bag,false,null,0,0
+Baguette,2.99,07/12/2022,Bag,false,null,0,0
+-
+Flatbread,2.99,07/12/2022,Bag,false,null,0,0
+Flatbread,2.99,07/12/2022,Bag,false,null,0,0
+-
+Plain Bagel,2.99,07/12/2022,Bag,false,null,0,0
+Plain Bagel,2.99,07/12/2022,Bag,false,null,0,0
+-
+Banana Bread,2.99,07/12/2022,Bag,false,null,0,0
+Banana Bread,2.99,07/12/2022,Bag,false,null,0,0
+
